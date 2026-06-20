@@ -1,0 +1,13 @@
+langchain
+langchain-community
+pypdf
+rapidocr
+rapidocr-onnxruntime
+pytesseract
+pdfplumber
+pdfminer.six
+jq
+tesseract
+beautifulsoup4
+lxml
+ipykernel

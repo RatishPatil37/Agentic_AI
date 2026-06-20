@@ -1,0 +1,40 @@
+[project]
+name = "agentic-ai"
+version = "0.1.0"
+description = "Krish Naik Agentic AI Course"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "google-genai>=1.75.0",
+    "ipykernel>=7.2.0",
+    "ipython>=9.13.0",
+    "langchain>=1.3.1",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.4.0",
+    "langchain-google-genai>=4.2.3",
+    "langchain-google-vertexai>=3.2.3",
+    "langchain-groq>=1.1.2",
+    "langchain-mcp-adapters>=0.3.0",
+    "langchain-openai>=1.2.2",
+    "langchain-tavily>=0.2.18",
+    "langgraph>=1.2.1",
+    "langsmith>=0.8.5",
+    "mcp>=1.27.2",
+    "openrouter>=0.9.1",
+    "pillow>=12.2.0",
+    "pyrefly>=1.0.0",
+    "pytesseract>=0.3.13",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "tavily>=1.1.0",
+    "tavily-python>=0.7.25",
+]
+
+[tool.pyrefly]
+project-includes = [
+    "**/*.py*",
+    "**/*.ipynb",
+]
+python-interpreter-path = "C:/Users/patil/Desktop/Env/Agentic_AI/.venv/Scripts/python.exe"
+
