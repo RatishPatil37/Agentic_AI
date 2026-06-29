@@ -3,7 +3,9 @@ langchain-core
 langchain-openai
 langchain-text-splitters
 langchain-community
+langchain_google_genai
 python-dotenv
+dotenv
 ollama
 langchain-ollama
 ipykernel
